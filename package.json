@@ -1,0 +1,23 @@
+{
+  "name": "Hello-World",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NayanKaran/Hello-World.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NayanKaran/Hello-World/issues"
+  },
+  "homepage": "https://github.com/NayanKaran/Hello-World#readme",
+  "devDependencies": {
+    "hint": "^6.1.11"
+  }
+}
